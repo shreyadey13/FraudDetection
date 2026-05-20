@@ -1,0 +1,15 @@
+﻿# Dataset files are not pushed because they are large Kaggle files.
+data/*.csv
+
+# Local/runtime files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
